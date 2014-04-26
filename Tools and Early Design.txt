@@ -1,0 +1,41 @@
+Limit the scope of the game to 2 dimensions
+
+Possible development environments:
+Windows
+	Visual Studio **
+	CodeBlocks
+	Eclipse CDT
+
+
+
+Languages and libraries:
+C++11
+XML
+OpenGL
+SFML
+Boost (maybe)
+Log4CPlus
+Google Testing Library
+
+Version control:
+GitHub
+
+
+Resources:
+
+http://www.sfml-dev.org/
+http://www.gamedev.net/page/resources/_/technical/opengl/rendering-efficient-2d-sprites-in-opengl-using-r2429
+https://gist.github.com/Alloyed/6c0d2f1fa476fc3ba61f
+
+
+Potential themes:
+
+Space
+Ground based combat
+Zelda-like adventure game **
+
+First steps:
+
+Get a project to compile with OpenGL, SFML, and Boost in Visual Studio
+
+Then get it setup with GitHub
